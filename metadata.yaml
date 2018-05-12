@@ -1,0 +1,27 @@
+_repo: Early-Days-in-North-Queensland_38649
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Palmer, Edward
+    birthdate: 1842
+    deathdate: 1899
+    gutenberg_agent_id: '39594'
+    url: http://www.gutenberg.org/2009/agents/39594
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Palmer_(Australian_politician)
+description: ''
+gutenberg_issued: '2012-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Frontier and pioneer life -- Australia -- Queensland'
+title: Early Days in North Queensland
+url: http://www.gutenberg.org/ebooks/38649
