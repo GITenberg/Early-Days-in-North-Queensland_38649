@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39594
     wikipedia: http://en.wikipedia.org/wiki/Edward_Palmer_(Australian_politician)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38649#Early-Days-in-North-Queensland
 gutenberg_issued: '2012-01-23'
 gutenberg_type: Text
 identifiers:
